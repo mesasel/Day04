@@ -3,9 +3,6 @@ function main(numOne, numTwo) {
  var numOne;
  var numTwo;
  var myQuotient = numOne / numTwo;
- parseFloat(numOne);
- parseFloat(numTwo);
- parseFloat(myQuotient);
     // Only change code above this line
 
 return myQuotient;
