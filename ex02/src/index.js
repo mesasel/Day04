@@ -10,6 +10,6 @@ function main() {
     
 }
 
-console.log(main());    // change this line
+console.log(main());
 
 module.exports = main;
