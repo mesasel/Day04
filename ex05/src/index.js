@@ -3,9 +3,6 @@ function main(numOne, numTwo) {
  var numOne;
  var numTwo;
  var product = numOne * numTwo;
- parseFloat(numOne);
- parseFloat(numTwo);
- parseFloat(product);
     // Only change code above this line
 
 return product;
